@@ -1,5 +1,5 @@
 # Winstart
-Automation script for a fresh Windows install catered towards my own setup, can be easily modified to own preference
+Automation script for a fresh Windows install which is catered towards my own setup, can be easily modified to own preference
 # What does it do?
 By default, these options are executed:
 - Activate Windows
