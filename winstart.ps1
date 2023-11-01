@@ -7,7 +7,6 @@ Start-Process ("$env:APPDATA\OfficeSetup.exe") -Wait;
 Remove-Item -Path "$env:APPDATA\OfficeSetup.exe";
 ## Install winget
 start powershell {irm asheroto.com/winget | iex} -Wait;
-winget install wingetui;
 ## Remove bloatware
 Get-AppxPackage -AllUsers Microsoft.549981C3F5F10 | Remove-AppxPackage -ErrorAction SilentlyContinue;
 Get-AppxPackage -AllUsers Microsoft.MSPaint | Remove-AppxPackage -ErrorAction SilentlyContinue;
