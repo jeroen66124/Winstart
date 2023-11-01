@@ -2,7 +2,7 @@
 Automation script for a fresh Windows install catered towards my own setup, can be easily modified to own preference
 # What does it do?
 By default, these options are executed:
-- Activating Windows
+- Activate Windows
 - Install & Activate Office
 - Install Windows Package Manager
 - Install Firefox, Spotify, Steam, Discord
