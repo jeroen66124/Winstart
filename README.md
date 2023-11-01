@@ -20,6 +20,6 @@ Windows can be tweaked further with:
 - [Windows 10 LTSC](https://www.microsoft.com/en-us/evalcenter/download-windows-10-enterprise)
 - [Windows 11 English (World)](https://www.reddit.com/r/Windows11/comments/15gk07n/english_world_as_time_and_currency_for_debloating/)
 # Credits
-- [Winget-install](https://github.com/asheroto/winget-install)
-- [ChrisTitus Winutil](https://github.com/ChrisTitusTech/winutil)
+- [winget-install](https://github.com/asheroto/winget-install)
+- [ChrisTitus winutil](https://github.com/ChrisTitusTech/winutil)
 - [Microsoft Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)
